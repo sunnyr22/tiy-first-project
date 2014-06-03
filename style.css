@@ -7,8 +7,9 @@ h1 {
 	font-style: inherit;
 	text-decoration: underline;
 	border: solid;
-	border-color: orange;
+	border-color: orange; border-style: dashed;
 }
+
 h2 {
 	color:red;
 	text-align:center;
@@ -18,6 +19,6 @@ h2 {
 p {
 	font-family:"Times New Roman","Times";
 	font-size:30px;
-	outline-style:dotted;
+	outline-style:dotted; bord
 outline-color:yellow;
 }
