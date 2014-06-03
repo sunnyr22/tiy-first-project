@@ -1,0 +1,21 @@
+body {
+	background-color:gray; text-align: center;
+}
+h1 {
+	color:blue;
+	text-align:center;
+	font-style: italic;
+	text-decoration: underline;
+	border: solid;
+	border-color: orange;
+}
+h2 {
+	color:red;
+	text-align:center;
+}
+p {
+	font-family:"Times New Roman","Times";
+	font-size:20px;
+	outline-style:dotted;
+outline-color:yellow;
+}
