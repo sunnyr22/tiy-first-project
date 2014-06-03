@@ -9,6 +9,9 @@ h1 {
 	border: solid;
 	border-color: orange; border-style: dashed;
 }
+img{
+	float: right;
+}
 
 h2 {
 	color:red;
@@ -19,6 +22,6 @@ h2 {
 p {
 	font-family:"Times New Roman","Times";
 	font-size:30px;
-	outline-style:dotted; bord
+	outline-style:dotted; 
 outline-color:yellow;
 }
