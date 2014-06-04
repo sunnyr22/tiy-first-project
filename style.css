@@ -6,7 +6,7 @@ h1 {
 	text-align:center;
 	font-style: inherit;
 	text-decoration: underline;
-	border: solid;
+	border: dotted;
 	border-color: orange; border-style: dashed;
 }
 img{
